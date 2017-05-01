@@ -44,7 +44,3 @@ Source Code: It is available on github. Clone the project using `git clone` comm
    $ git clone https://github.com/your-github-username/tournament-results
 
    ```
-
-Twitter Bootstrap
-
-Font-Awesome
