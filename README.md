@@ -7,7 +7,7 @@ Tournament Results is a project submission for the Udacity Full Stack Engineerin
 vagrant (latest build)
 
 
-## Setup
+## Setup:
 
 1. Start Vagrant
 2. Open Terminal and navigate to the vagrant folder
@@ -34,7 +34,7 @@ vagrant (latest build)
 Success!  All tests pass!
 ```
 
-## GitHub
+## GitHub:
 Source Code: It is available on github. Clone the project using `git clone` command or fork the project to provide contributions.
  
  ``` 
